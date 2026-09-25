@@ -1,0 +1,6496 @@
+[
+ {
+  "week": 1,
+  "breakfast": [
+   {
+    "dish": "NASI GORENG CINA",
+    "ingredients": [
+     {
+      "name": "MINYAK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK BIJAN",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TELUR",
+      "qty10": 5,
+      "unit": "BIJI",
+      "remark": null
+     },
+     {
+      "name": "MIX VEGE",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "TELUR MATA",
+    "ingredients": [
+     {
+      "name": "TELUR MATA",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": null,
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "SPAGHETTI CHICKEN BOLOGNESE",
+    "ingredients": [
+     {
+      "name": "SPAGHETTI",
+      "qty10": 1500,
+      "unit": "GM",
+      "remark": "150GM, SETIAP 1 ORANG"
+     },
+     {
+      "name": "MINYAK JAGUNG",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": "10GM, SETIAP 1 ORANG"
+     },
+     {
+      "name": "MIX CHICKEN",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG BESAR",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 1000,
+      "unit": "GM",
+      "remark": "100GM, SETIAP 1 ORANG"
+     },
+     {
+      "name": "TOMATO PURE",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TOMATO BIJI",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "OREGANO",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "FRESH BASIL",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HITAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAY LEAF",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "GRILL FISH PINEAPPLE SALSA",
+    "ingredients": [
+     {
+      "name": "IKAN DORY",
+      "qty10": 2000,
+      "unit": "GM",
+      "remark": "200GM, SETIAP 1 ORANG"
+     },
+     {
+      "name": "TOMATO",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "NENAS",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN KETUMBAR",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CUKA",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BOILED GARLIC POTATO",
+    "ingredients": [
+     {
+      "name": "KENTANG",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUTTER",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HITAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN PARSLEY",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK JAGUNG",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SAUTEED BROCOLLI",
+    "ingredients": [
+     {
+      "name": "BROCCOLI",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 40,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUTTER",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK JAGUNG",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HITAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "NASI JAGUNG",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK MASAK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK SAPI",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SUSU CAIR",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KAYU MANIS",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUNGA LAWANG",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CENGKIH",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUAH PELAGA",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "PEWARNA MAKANAN KUNING",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "JAGUNG FROZEN",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN PANDAN",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM MERAH",
+    "ingredients": [
+     {
+      "name": "PASTE AYAM MERAH",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "KOBIS GORENG",
+    "ingredients": [
+     {
+      "name": "KOBIS",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 2,
+  "breakfast": [
+   {
+    "dish": "BEE HUN SINGAPORE",
+    "ingredients": [
+     {
+      "name": "MEE HUN",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SAYUR SAWI",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TAUGEH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "IKAN BILIS",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA PUTIH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HITAM",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR MATA",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "NASI MINYAK",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK MASAK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK SAPI",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SUSU CAIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KAYU MANIS",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUNGA LAWANG",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CENGKIH",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUAH PELAGA",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "PEWARNA MAKANAN KUNING",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN PANDAN",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM KURMA",
+    "ingredients": [
+     {
+      "name": "PASTE AYAM KURMA",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KENTANG",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HIJAU",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "TAUHU SAMBAL",
+    "ingredients": [
+     {
+      "name": "TAUHU",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": "1PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "PASTE SAMBAL TUMIS",
+      "qty10": 500,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "ACAR JELATAH",
+    "ingredients": [
+     {
+      "name": "NENAS",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TIMUN",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CUKA",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "NASI GORENG",
+    "ingredients": [
+     {
+      "name": "MINYAK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TELUR",
+      "qty10": 5,
+      "unit": "BIJI",
+      "remark": null
+     },
+     {
+      "name": "MIX VEGE",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA BOH BLEND",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "IKAN MASAM MANIS",
+    "ingredients": [
+     {
+      "name": "IKAN DORY",
+      "qty10": 2000,
+      "unit": "GM",
+      "remark": "200GM, SETIAP 1 ORANG"
+     },
+     {
+      "name": "NENAS",
+      "qty10": 500,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TIMUN",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG HOLLAND",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS CILI",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TEPUNG JAGUNG",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SAWI TIMUN SOS TIRAM",
+    "ingredients": [
+     {
+      "name": "SAWI",
+      "qty10": 1,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 3,
+  "breakfast": [
+   {
+    "dish": "KUEH TIAW GORENG",
+    "ingredients": [
+     {
+      "name": "KUEH TIAW",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SAWI",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TAUGEH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS CILI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA BOH BLEND",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR MATA",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM KICAP",
+    "ingredients": [
+     {
+      "name": "PASTE AYAM KICAP",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "KENTANG MASAK HIJAU",
+    "ingredients": [
+     {
+      "name": "KENTANG",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HIJAU",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "IKAN BILIS",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "CHAP CHAI",
+    "ingredients": [
+     {
+      "name": "KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BROCCOLI",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUNGA KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM KUNING",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM HIJAU",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "NASI BUTTER",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BUTTER",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MIX HERB",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "MONGOLIA BEEF",
+    "ingredients": [
+     {
+      "name": "BEEF",
+      "qty10": 2,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG HOLLAND",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "HALIA",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA KERING",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KICAP PEKAT",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KICAP MANIS",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BROCCOLI GORENG",
+    "ingredients": [
+     {
+      "name": "SOS TIRAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TEPUNG JAGUNG",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN BAWANG",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BROCCOLI",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 4,
+  "breakfast": [
+   {
+    "dish": "NASI GORENG KAMPUNG",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "PASTE N.G.K",
+      "qty10": 250,
+      "unit": "GM",
+      "remark": "250GM, UNTUK 10PAX"
+     },
+     {
+      "name": "KANGKUNG",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "FISH CAKE",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR MATA",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM KURMA",
+    "ingredients": [
+     {
+      "name": "PASTE AYAM KURMA",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SANTAN",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KENTANG",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HIJAU",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "KACANG PANJANG",
+    "ingredients": [
+     {
+      "name": "KACANG PANJANG",
+      "qty10": 1.2,
+      "unit": "KG",
+      "remark": "120GM, SETIAP 1 ORANG"
+     },
+     {
+      "name": "CARROT",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 70,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "SPAGHETTI AGLIO OLIO",
+    "ingredients": [
+     {
+      "name": "SPAGHETTI",
+      "qty10": 1500,
+      "unit": "GM",
+      "remark": "150GM, SETIAP 1 ORANG"
+     },
+     {
+      "name": "CAPSICUM KUNING",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM HIJAU",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG HOLLAND",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HITAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHILI FLAKE",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "OREGANO",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM BAKAR",
+    "ingredients": [
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "CHILI POWDER",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SAYUR TUMIS AIR",
+    "ingredients": [
+     {
+      "name": "BAYAM",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 1,
+      "unit": "L",
+      "remark": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 5,
+  "breakfast": [
+   {
+    "dish": "KUEH TIAW GORENG",
+    "ingredients": [
+     {
+      "name": "KUEH TIAW",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SAWI",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TAUGEH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS CILI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA BOH BLEND",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR MATA",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM MASAK BAWANG",
+    "ingredients": [
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "BAWANG BESAR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "HALIA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 60,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CILI PADI",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN KARI",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS CILI",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KICAP PEKAT",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA SULAH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "L",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "KENTANG BROWN SAUCE",
+    "ingredients": [
+     {
+      "name": "KENTANG",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BROWN SAUCE",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "L",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "KOBIS GORENG KUNYIT",
+    "ingredients": [
+     {
+      "name": "KOBIS",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SERBUK KUNYIT",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AJINOMOTO",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "NASI BERIANI",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1.2,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "PASTE BERIANI",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SUSU CAIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM BERIANI",
+    "ingredients": [
+     {
+      "name": "PASTE BERIANI",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "SUSU CAIR",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "DALCA SAYUR",
+    "ingredients": [
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SERBUK KARI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA BOH BLEND",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SANTAN",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KACANG PANJANG",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TERUNG",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AJINOMOTO",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KACANG DAL",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 6,
+  "breakfast": [
+   {
+    "dish": "NASI LEMAK",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG BESAR",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "HALIA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SERAI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SANTAN",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SAMBAL TUMIS",
+    "ingredients": [
+     {
+      "name": "PASTE SAMBAL TUMIS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR REBUS",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "TIMUN",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "KACANG TANAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "IKAN BILIS",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "SPAGHETTI AGLIO OLIO",
+    "ingredients": [
+     {
+      "name": "SPAGHETTI",
+      "qty10": 1500,
+      "unit": "GM",
+      "remark": "150GM, SETIAP 1 ORANG"
+     },
+     {
+      "name": "CAPSICUM KUNING",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM HIJAU",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG HOLLAND",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HITAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHILI FLAKE",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "OREGANO",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM BAKAR",
+    "ingredients": [
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "CHILI POWDER",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "MIX VEGE",
+    "ingredients": [
+     {
+      "name": "KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BROCCOLI",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUNGA KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM KUNING",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM HIJAU",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "MASHED POTATO",
+    "ingredients": [
+     {
+      "name": "MASHED POWDER",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "NASI GORENG TOMYAM",
+    "ingredients": [
+     {
+      "name": "NASI",
+      "qty10": null,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN LIMAU PURUT",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SERAI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "PASTE TOMYAM",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS IKAN",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CILI PADI",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM KICAP",
+    "ingredients": [
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "PASTE AYAM KICAP",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "L",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HIJAU",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "MIX VEGE",
+    "ingredients": [
+     {
+      "name": "KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BROCCOLI",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUNGA KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM KUNING",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM HIJAU",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 7,
+  "breakfast": [
+   {
+    "dish": "BEE HUN SINGAPORE",
+    "ingredients": [
+     {
+      "name": "MEE HUN",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SAYUR SAWI",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TAUGEH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "IKAN BILIS",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA PUTIH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HITAM",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR MATA",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "DAGING MASAK SOS TIRAM",
+    "ingredients": [
+     {
+      "name": "DAGING",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": "120GM, SETIAP 1 ORANG"
+     },
+     {
+      "name": "BAWANG BESAR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "HALIA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM KUNING",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM HIJAU",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KICAP MANIS",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KICAP PEKAT",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA SULAH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TEPUNG JAGUNG",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SOUP TELUR",
+    "ingredients": [
+     {
+      "name": "TELUR",
+      "qty10": 5,
+      "unit": "BIJI",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "HALIA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA SULAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK BIJAN",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN SUP",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN BAWANG",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SAWI GORENG TEMPEH",
+    "ingredients": [
+     {
+      "name": "SAWI",
+      "qty10": 2,
+      "unit": "GM",
+      "remark": "100GM, SETIAP 1 ORANG"
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 60,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TEMPEH",
+      "qty10": 40,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "NASI TOMATO",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK MASAK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TOMATO PURE",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SUSU CAIR",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KAYU MANIS",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUNGA LAWANG",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CENGKIH",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUAH PELAGA",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN PANDAN",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM TOMATO",
+    "ingredients": [
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "PASTE AYAM MERAH",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TOMATO PURE",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "PENCUK",
+    "ingredients": [
+     {
+      "name": "NENAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "TIMUN",
+      "qty10": 500,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CUKA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 8,
+  "breakfast": [
+   {
+    "dish": "KUEH TIAW GORENG",
+    "ingredients": [
+     {
+      "name": "KUEH TIAW",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA BOH BLEND",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KICAP MANIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KICAP PEKAT",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "FISH CAKE",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SAWI",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TAUGEH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA PASIR",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AJINOMOTO",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR MATA",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM TOMATO",
+    "ingredients": [
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "PASTE AYAM MERAH",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TOMATO PURE",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "KENTANG REBUS",
+    "ingredients": [
+     {
+      "name": "KENTANG",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADAHIJAU",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "CHAP CHAI",
+    "ingredients": [
+     {
+      "name": "KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BROCCOLI",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUNGA KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM KUNING",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM HIJAU",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "DAGING MASAK MERAH",
+    "ingredients": [
+     {
+      "name": "DAGING",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG BESAR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "HALIA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA BOH BLEND",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS CHILI",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "PEWARNA MAKANAN MERAH",
+      "qty10": null,
+      "unit": null,
+      "remark": null
+     },
+     {
+      "name": "JAGUNG",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KACANG PANJANG",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM KUNING",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM HIJAU",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM MERAH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN LIMAU PURUT",
+      "qty10": 2,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CILI PADI HIJAU",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BAYAM MASAK AIR",
+    "ingredients": [
+     {
+      "name": "BAYAM",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 200,
+      "unit": "ML",
+      "remark": null
+     },
+     {
+      "name": "AIR AJINOMOTO",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 9,
+  "breakfast": [
+   {
+    "dish": "NASI GORENG KICAP",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHILI BOH BLEND",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SERBUK LADA PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KICAP MANIS",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MIX VEGE",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "FISH CAKE",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "DAGING MASAK LEMAK",
+    "ingredients": [
+     {
+      "name": "PASTE LEMAK CILI PADI",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "DAGING",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "ML",
+      "remark": null
+     },
+     {
+      "name": "SANTAN",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "TAUHU SOS TIRAM",
+    "ingredients": [
+     {
+      "name": "TAUHU",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG BESAR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN BAWANG",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KICAP CAIR",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS CILI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SERBUK LADA SULAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TEPUNG JAGUNG",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "KOBIS GORENG",
+    "ingredients": [
+     {
+      "name": "KOBIS",
+      "qty10": 1.5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AJINOMOTO",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "NASI BUTTER",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BUTTER",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MIX HERB",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "CHICKEN CHOP",
+    "ingredients": [
+     {
+      "name": "CHICKEN CHOP",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHILLI POWDER",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "OREGANO",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MIX HERB",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "MIX VEGE",
+    "ingredients": [
+     {
+      "name": "KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BROCCOLI",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUNGA KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM KUNING",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM HIJAU",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 10,
+  "breakfast": [
+   {
+    "dish": "BIHUN GORENG",
+    "ingredients": [
+     {
+      "name": "BIHUN",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SAWI",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TAUGEH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS CILI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK MASAK",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA BOH BLEND",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR MATA",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": null,
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM MASAK THAI",
+    "ingredients": [
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "BAWANG BESAR",
+      "qty10": 150,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CILI PADI HIJAU",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CILI PADI MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HIJAU",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TOMATO",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN LIMAU",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SERAI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN BAWANG",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS THAI",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS IKAN",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "KENTANG MASAK KICAP",
+    "ingredients": [
+     {
+      "name": "KENTANG",
+      "qty10": 2,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "PASTE MASAK KICAP",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "ML",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "LABU MASAK LEMAK",
+    "ingredients": [
+     {
+      "name": "LABU",
+      "qty10": 2,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "IKAN BILIS",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 500,
+      "unit": "ML",
+      "remark": null
+     },
+     {
+      "name": "SANTAN",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "IKAN SIAKAP 3 RASA",
+    "ingredients": [
+     {
+      "name": "IKAN SIAKAP",
+      "qty10": 4,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS CILI",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA BOH BLEND",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TIMUN",
+      "qty10": 500,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "NENAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SERAI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CILI PADI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "CHAP CHAI",
+    "ingredients": [
+     {
+      "name": "KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BROCCOLI",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM KUNING",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM HIJAU",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 11,
+  "breakfast": [
+   {
+    "dish": "KUEH TIAW GORENG",
+    "ingredients": [
+     {
+      "name": "KUEH TIAW",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SAWI",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TAUGEH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS CILI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA BOH BLEND",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR MATA",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM KICAP",
+    "ingredients": [
+     {
+      "name": "PASTE AYAM KICAP",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "TAUHU MASAK SOS",
+    "ingredients": [
+     {
+      "name": "PASTE AYAM MASAK MERAH",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "TAUHU",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SAYUR TUMIS AIR",
+    "ingredients": [
+     {
+      "name": "BAYAM",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 1,
+      "unit": "LITER",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "NASI MINYAK",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK MASAK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK SAPI",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SUSU CAIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "KAYU MANIS",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUNGA LAWANG",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CENGKIH",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUAH PELAGA",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "PEWARNA MAKANAN KUNING",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "DAUN PANDAN",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM MASAK ROS",
+    "ingredients": [
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "PASTE AYAM MASAK MERAH",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SIRAP ROS",
+      "qty10": 1,
+      "unit": "BTL",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "PENCUK",
+    "ingredients": [
+     {
+      "name": "NENAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "TIMUN",
+      "qty10": 500,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CUKA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 12,
+  "breakfast": [
+   {
+    "dish": "NASI GORENG KAMPUNG",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "PASTE N.G.K",
+      "qty10": 250,
+      "unit": "GM",
+      "remark": "250GM, UNTUK 10PAX"
+     },
+     {
+      "name": "KANGKUNG",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "FISH CAKE",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR MATA",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM BAKAR MADU",
+    "ingredients": [
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "SERAI",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "HALIA",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CILI POWDER",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MADU",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "ML",
+      "remark": null
+     },
+     {
+      "name": "PEWARNA MAKANAN MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "KELEDEK REBUS",
+    "ingredients": [
+     {
+      "name": "KELEDEK",
+      "qty10": 2,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "PETOLA TUMIS AIR",
+    "ingredients": [
+     {
+      "name": "PETOLA",
+      "qty10": 2,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SOO HOON",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "IKAN BILIS",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AJINOMOTO",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "ML",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "SPAGHETTI AGLIO OLIO",
+    "ingredients": [
+     {
+      "name": "SPAGHETTI",
+      "qty10": 1500,
+      "unit": "GM",
+      "remark": "150GM, SETIAP 1 ORANG"
+     },
+     {
+      "name": "CAPSICUM KUNING",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM HIJAU",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG HOLLAND",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA HITAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHILI FLAKE",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "OREGANO",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK JAGUNG",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM BAKAR",
+    "ingredients": [
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "CHILI POWDER",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "MIX VEGE",
+    "ingredients": [
+     {
+      "name": "KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BROCCOLI",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BUNGA KOBIS",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM KUNING",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM HIJAU",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CAPSICUM MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 13,
+  "breakfast": [
+   {
+    "dish": "KUEH TIAW GORENG",
+    "ingredients": [
+     {
+      "name": "KUEH TIAW",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SAWI",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TAUGEH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS CILI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA BOH BLEND",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR MATA",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "IKAN MASAK KARI",
+    "ingredients": [
+     {
+      "name": "IKAN",
+      "qty10": 2,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "PASTE KARI",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SANTAN",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "ML",
+      "remark": null
+     },
+     {
+      "name": "BENDI",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "KACANG PANJANG GORENG",
+    "ingredients": [
+     {
+      "name": "KACANG PANJANG",
+      "qty10": 2,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "NASI SERAI",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SERAI",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "HALIA",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM MASAK TOMATO",
+    "ingredients": [
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "PASTE AYAM MASAK MERAH",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "PENCUK",
+    "ingredients": [
+     {
+      "name": "NENAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "TIMUN",
+      "qty10": 500,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CUKA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "week": 14,
+  "breakfast": [
+   {
+    "dish": "BIHUN GORENG",
+    "ingredients": [
+     {
+      "name": "BIHUN",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SAWI",
+      "qty10": 200,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "TAUGEH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CARROT",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS CILI",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TOMATO",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 5,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GULA",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "CHICKEN STOCK",
+      "qty10": 10,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "MINYAK MASAK",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA BOH BLEND",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SIDE DISH",
+    "ingredients": [
+     {
+      "name": "TELUR MATA",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     }
+    ]
+   },
+   {
+    "dish": "ROTI",
+    "ingredients": [
+     {
+      "name": "SLICE BREAD",
+      "qty10": 20,
+      "unit": "PCS",
+      "remark": "2 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "KAYA/ PEANUT BUTTER",
+      "qty10": null,
+      "unit": null,
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "lunch": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM KICAP",
+    "ingredients": [
+     {
+      "name": "PASTE AYAM KICAP",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "TELUR DADAR",
+    "ingredients": [
+     {
+      "name": "TELUR",
+      "qty10": 10,
+      "unit": "BIJI",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "KOBIS GORENG",
+    "ingredients": [
+     {
+      "name": "KOBIS",
+      "qty10": 2,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 20,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ],
+  "dinner": [
+   {
+    "dish": "NASI PUTIH",
+    "ingredients": [
+     {
+      "name": "BERAS",
+      "qty10": 1.5,
+      "unit": "KG",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "AYAM MASAK LEMAK CILI PADI",
+    "ingredients": [
+     {
+      "name": "AYAM",
+      "qty10": 10,
+      "unit": "PCS",
+      "remark": "1 PCS, SETIAP 1 ORANG"
+     },
+     {
+      "name": "PASTE MASAK LEMAK",
+      "qty10": 1,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "SANTAN",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "GM",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "SAWI GORENG TAUGEH",
+    "ingredients": [
+     {
+      "name": "SAWI",
+      "qty10": 2,
+      "unit": "KG",
+      "remark": null
+     },
+     {
+      "name": "TAUGEH",
+      "qty10": 500,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG MERAH",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "BAWANG PUTIH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "LADA MERAH",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "SOS TIRAM",
+      "qty10": 50,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "GARAM",
+      "qty10": 30,
+      "unit": "GM",
+      "remark": null
+     },
+     {
+      "name": "AIR",
+      "qty10": 100,
+      "unit": "ML",
+      "remark": null
+     }
+    ]
+   },
+   {
+    "dish": "BUAH",
+    "ingredients": [
+     {
+      "name": "BUAH",
+      "qty10": 900,
+      "unit": "GM",
+      "remark": "90GM, SETIAP 1 ORANG"
+     }
+    ]
+   }
+  ]
+ }
+]
